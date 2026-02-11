@@ -18,12 +18,12 @@ Cons:Abstraction a lot <br>
 <br>
 4)OpenAI Agnet SDK <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://www.logicgate.com/wp-content/smush-webp/plt-openai-01-hero-01.png.webp" width=300 height =450></img> <br>
 <br>
 <br>
 5)Open AI Module <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://www.logicgate.com/wp-content/smush-webp/plt-openai-01-hero-01.png.webp" width=300 height =450></img> <br>
 <br>
 <br>
 6)Scikit learn <br>
