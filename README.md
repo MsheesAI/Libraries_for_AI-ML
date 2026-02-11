@@ -13,7 +13,7 @@ Cons:Abstraction a lot <br>
 <br>
 3)CrewAI <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dVKpNSqtNQAbc_iwLoMyyeF9yk5GJHKusg&s" width=300 height =450></img> <br>
 <br>
 <br>
 4)OpenAI Agnet SDK <br>
