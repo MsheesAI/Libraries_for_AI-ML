@@ -43,7 +43,7 @@ Cons:Abstraction a lot <br>
 <br>
 9)Tensor Flow <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://sudoconsultants.com/wp-content/uploads/2022/08/Kubernetes-with-TensorFlow-1.jpg" width=300 height =450></img> <br>
 <br>
 <br>
 Dont Scare you dont need to remember every Function  because <br>
