@@ -28,17 +28,17 @@ Cons:Abstraction a lot <br>
 <br>
 6)Scikit learn <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FFVMFc556SwgJm_G0y5ZeIJdkLDl23opCQ&s" width=300 height =450></img> <br>
 <br>
 <br>
 7)Py torch <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdLx_QNvq56gNTPBPOgV_efD3iWNqBzTXDg&s" width=300 height =450></img> <br>
 <br>
 <br>
 8)Numpy / Pandas <br>
 <br>
-<img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQES4Ww0qcxkCQ/article-cover_image-shrink_423_752/B4DZlIEAzNGsAU-/0/1757850636665?e=2147483647&v=beta&t=A2imEn9MpLS9-5fxZyFjn2rXpjBssrgod93DOEV-U-k" width=300 height =450></img> <br>
 <br>
 <br>
 9)Tensor Flow <br>
