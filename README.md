@@ -6,42 +6,42 @@
 <img src=https://cdn.prod.website-files.com/66841c2a95405226a60d332e/67372ce594995c3cfec35531_AI_20_retried.webp alt="langgraph image" width=300 height =450></img>
 <br>
 <br>
-<h4> 2)llamaIndex <br> </h1>
+<h4> 2)llamaIndex <br> </h4>
 <br>
 <img src=https://miro.medium.com/0*rvIJnIxJe9LwQXQf.png width=300 height =450></img> <br>
 <br>
 <br>
-3)CrewAI <br>
+<h4>3)CrewAI <br></h4>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2dVKpNSqtNQAbc_iwLoMyyeF9yk5GJHKusg&s" width=300 height =450></img> <br>
 <br>
 <br>
-4)OpenAI Agnet SDK <br>
+<h4>4)OpenAI Agnet SDK <br> </h4>
 <br>
 <img src="https://www.logicgate.com/wp-content/smush-webp/plt-openai-01-hero-01.png.webp" width=300 height =450></img> <br>
 <br>
 <br>
-5)Open AI Module <br>
+<h4>5)Open AI Module <br> </h4>
 <br>
 <img src="https://www.logicgate.com/wp-content/smush-webp/plt-openai-01-hero-01.png.webp" width=300 height =450></img> <br>
 <br>
 <br>
-6)Scikit learn <br>
+<h4>6)Scikit learn <br></h4>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4FFVMFc556SwgJm_G0y5ZeIJdkLDl23opCQ&s" width=300 height =450></img> <br>
 <br>
 <br>
-7)Py torch <br>
+<h4>7)Py torch <br></h4>
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdLx_QNvq56gNTPBPOgV_efD3iWNqBzTXDg&s" width=300 height =450></img> <br>
 <br>
 <br>
-8)Numpy / Pandas <br>
+<h4>8)Numpy / Pandas <br></h4>
 <br>
 <img src="https://media.licdn.com/dms/image/v2/D4D12AQES4Ww0qcxkCQ/article-cover_image-shrink_423_752/B4DZlIEAzNGsAU-/0/1757850636665?e=2147483647&v=beta&t=A2imEn9MpLS9-5fxZyFjn2rXpjBssrgod93DOEV-U-k" width=300 height =450></img> <br>
 <br>
 <br>
-9)Tensor Flow <br>
+<h4>9)Tensor Flow <br></h4>
 <br>
 <img src="https://sudoconsultants.com/wp-content/uploads/2022/08/Kubernetes-with-TensorFlow-1.jpg" width=300 height =450></img> <br>
 <br>
